@@ -1,0 +1,24 @@
+site_name: Documentación de LegisOffice
+
+nav: 
+  - Inicio: 'index.md'
+  - LegisXperta: 'legisxperta.md'
+  - GestionHumana: 'gestionhumana.md'
+  - LegisComex: 'legiscomex.md'
+  - Multilegis: 'multilegis.md'
+  - Construdata: 'construdata.md'
+  - ComunidadContable: 'comunidadcontable.md'
+  - Bloc_Legis: 'bloclegis.md'
+  - 'LegisOffice':
+    - 'Módulos de LegisOffice': 'modulos.md' 
+    - 'Conoce cómo funciona LegisOffice': 'conoce.md'
+    - 'Dispositivos': 'dispositivos.md'
+    - '¿Por qué escoger LEGISOFFICE?': 'porquelegis.md'
+    - 'Club de beneficios': 'club.md'
+    - 'Activación de libros': 'activacion.md'
+    - 'Preguntas Frecuentes': 'preguntas.md'
+    - 'TÉRMINOS Y CONDICIONES DE USO': 'terminos_condiciones.md'
+  - Acerca de Legis: 'about.md'
+
+theme: readthedocs
+
