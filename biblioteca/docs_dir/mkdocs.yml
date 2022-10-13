@@ -18,7 +18,7 @@ nav:
     - 'Activación de libros': 'activacion.md'
     - 'Preguntas Frecuentes': 'preguntas.md'
     - 'TÉRMINOS Y CONDICIONES DE USO': 'terminos_condiciones.md'
-  - Acerca de Legis: 'about.md'
+  - Acerca de: 'about.md'
 
 theme: readthedocs
 
